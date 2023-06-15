@@ -12,7 +12,7 @@
 <!--Seccion de navegacion-->
     <header class="n">
         <nav class="navegador" id="nav-bar">
-            <h2 class="logo"><a href="#">Logo |<span>| Logo</span></a></h2>
+            <h2 class="logo"><a href="/public/img/logo.png">Logo |<span>| Logo</span></a></h2>
             <ul>
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#">Servicios</a></li>
@@ -59,7 +59,7 @@
           </div>
   </div>
 </div>
-</body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>
