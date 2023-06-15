@@ -8,16 +8,16 @@
 <body>
 <header class="n">
         <nav class="navegador" id="nav-bar">
-            <h2 class="logo"><a href="/">Flor |<span>| Rama</span></a></h2>
+            <h2 class="logo"><a href="/">Logo |<span>| Logo</span></a></h2>
             <ul>
                 <li><a href="/">Inicio</a></li>
-                <li><a href="/admin">Mi cuenta</a></li>
+                <li><a href="/admin">Servicios</a></li>
                 <li><a href="/products">Productos</a></li>
-                <li><a href="/shoppingcart">Carrito</a></li>
-                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="/shoppingcart">Contacto</a></li>
+                <li><a href="#sobre-nosotros">Soporte Tecnico</a></li>
             </ul>
         </nav>
-    </header>
+</header>
     
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -41,5 +41,18 @@
   </a>
 </div>
 
+<!--Seccion de servicios-->
+<div class="contenerdor">
+  <div class="servicio" data-aos="fade-right">
+          <figure>
+              <img src="#" alt="">
+          </figure>
+          <div class="contenido">
+              <h3>Servicios</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+              <a href="#">Leer más</a>
+          </div>
+  </div>
+</div>
 </body>
 </html>
