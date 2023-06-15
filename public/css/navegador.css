@@ -30,10 +30,10 @@ html {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 20PX;
+    padding-left: 10%;
+    padding-right: 10%;
     transition: 1s;
 }
 
@@ -46,7 +46,7 @@ html {
     margin-top: 1.42rem;
     list-style-type: none;
     display: inline-block;
-    padding: 0.625rem 1.25rem;
+    padding: 10px 20px;
 }
 
 .navegador ul li a{
@@ -62,7 +62,22 @@ html {
 
 /*CAROUSEL */
 .carousel-item img {
-    width: 6.25rem; 
-    height: 28.125rem; 
+    width: 100px; 
+    height: 450px; 
     object-fit: cover; 
+}
+
+.carousel-item {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.carousel-item.active {
+    opacity: 1;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
 }
