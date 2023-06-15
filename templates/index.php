@@ -10,11 +10,11 @@
         <nav class="navegador" id="nav-bar">
             <h2 class="logo"><a href="/">Flor |<span>| Rama</span></a></h2>
             <ul>
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/admin">Mi cuenta</a></li>
-                <li><a href="/products">Productos</a></li>
-                <li><a href="/shoppingcart">Carrito</a></li>
-                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Servicios</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">Contacto</a></li>
+                <li><a href="#">Soporte tecnico</a></li>
             </ul>
         </nav>
     </header>
