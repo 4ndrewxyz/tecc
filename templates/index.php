@@ -52,7 +52,7 @@
 <div class="contenedor">
   <div class="servicio" data-aos="fade-right">
           <figure>
-              <img src="#" alt="">
+                <img src="/public/img/carousel2.jpeg" alt="">
           </figure>
           <div class="contenido">
               <h3>Servicios</h3>
@@ -60,11 +60,9 @@
               <a href="#">Leer más</a>
           </div>
   </div>
-</div>
-<div class="contenedor">
   <div class="servicio" data-aos="fade-right">
           <figure>
-              <img src="#" alt="">
+              <img src="/public/img/carousel2.jpeg" alt="">
           </figure>
           <div class="contenido">
               <h3>Servicios</h3>
@@ -72,14 +70,12 @@
               <a href="#">Leer más</a>
           </div>
   </div>
-</div>
-<div class="contenedor">
   <div class="servicio" data-aos="fade-right">
           <figure>
-              <img src="#" alt="">
+              <img src="/public/img/carousel2.jpeg" alt="">
           </figure>
           <div class="contenido">
-              <h3>Servicios</h3>
+              <h3>Servicios11</h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
               <a href="#">Leer más</a>
           </div>
