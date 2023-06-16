@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/public/css/navegador.css">
+    <link rel="stylesheet" href="/public/css/servicios.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <title>TEC</title>
 </head>
@@ -49,7 +50,31 @@
 
 
 <!--Seccion de servicios-->
-<div class="contenerdor">
+<div class="contenedor">
+  <div class="servicio" data-aos="fade-right">
+          <figure>
+              <img src="#" alt="">
+          </figure>
+          <div class="contenido">
+              <h3>Servicios</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+              <a href="#">Leer más</a>
+          </div>
+  </div>
+</div>
+<div class="contenedor">
+  <div class="servicio" data-aos="fade-right">
+          <figure>
+              <img src="#" alt="">
+          </figure>
+          <div class="contenido">
+              <h3>Servicios</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+              <a href="#">Leer más</a>
+          </div>
+  </div>
+</div>
+<div class="contenedor">
   <div class="servicio" data-aos="fade-right">
           <figure>
               <img src="#" alt="">
