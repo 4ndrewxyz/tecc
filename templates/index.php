@@ -86,6 +86,23 @@
           </div>
   </div>
 </div>
+
+  <div class="footer">
+    <div class="acerca">
+      <p>Sobre nosotros</p>
+      <p>conocenos</p>
+    </div>
+    <div class="atencion">
+      <p>Atención al cliente</p>
+      <p>texto</p>
+    </div>
+    <div class="Contactanos">
+      <p>Contactanos</p>
+      <p>redes.</p>
+    </div>
+</div>
+</footer>
+</div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 </body>
