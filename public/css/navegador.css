@@ -95,6 +95,28 @@ html {
     font-size: 12px;
   }
   
+  .footer a{
+    font-family: sans-serif;
+    text-underline-position: auto;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 1px;
+    font-size: 14px;
+    text-decoration: underline;
+  }
+
+  .footer .acerca p{
+    font-family: sans-serif;
+    text-underline-position: auto;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 1px;
+    font-size: 14px;
+    text-decoration: underline;
+  }
+
   .footer h3 {
     font-family: sans-serif;
     font-weight: bold;

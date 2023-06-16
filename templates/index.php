@@ -136,7 +136,7 @@
     </div>
     <div class="atencion">
       <h3>Atención al cliente</h3>
-      <p>texto</p>
+      <a href="http://192.168.1.215/">Pagina de soporte</a>
     </div>
     <div class="Contactanos">
       <h3>Contactanos</h3>
