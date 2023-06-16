@@ -12,7 +12,7 @@
 <!--Seccion de navegacion-->
     <header class="n">
         <nav class="navegador" id="nav-bar">
-            <img src="/public/img/logo.png">
+            <img class="logo" src="/public/img/logo.png">
             <ul>
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#">Servicios</a></li>

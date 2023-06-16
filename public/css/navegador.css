@@ -37,7 +37,13 @@ html {
     transition: 1s;
 }
 
+.logo{
+    height: auto;
+    width: 24rem;
+}
+
 .navegador ul li{
+    margin-top: 1.42rem;
     list-style-type: none;
     display: inline-block;
     padding: 10px 20px;
