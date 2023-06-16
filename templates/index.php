@@ -84,6 +84,42 @@
   </div>
 </div>
 
+<!--Productos-->
+<div class="contenedor-producto">
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">   
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+  <div class="productos-categoria" data-aos="fade-right">
+        <img src="/public/img/carousel2.jpeg" alt="">
+        <h3>Producto</h3>
+  </div>
+</div>
+
 <div class="footer">
     <div class="acerca">
       <p>Sobre nosotros</p>

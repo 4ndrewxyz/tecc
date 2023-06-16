@@ -29,3 +29,36 @@
     height: auto;
     width: 100%;
 }
+
+.contenedor-producto{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.productos-categoria{
+    position: relative;
+    width: 24.567vw;
+}
+
+.productos-categoria img{
+    width: 100%;
+    height: 35vh;
+}
+
+.productos-categoria h3{
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.productos-categoria:hover{
+    z-index: 1000;
+}
+.productos-categoria img:hover{
+    width: 25vw;
+}
