@@ -16,10 +16,10 @@
             <img class="logo" src="/public/img/logo.png"> <!--Logo de la empresa-->
             <ul>
                 <li><a href="#">Inicio</a></li>
-                <li><a href="#">Servicios</a></li>
-                <li><a href="#">Productos</a></li>
-                <li><a href="#">Contacto</a></li>
-                <li><a href="#sobre-nosotros">Soporte Tecnico</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#productos">Productos</a></li>
+                <li><a href="#footer">Contacto</a></li>
+                <li><a href="http://192.168.1.215/">Soporte Tecnico</a></li>
             </ul>
         </nav>
 </header>
