@@ -30,10 +30,10 @@ html {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 20px;
-    padding-bottom: 20PX;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    padding-left: 5%;
+    padding-right: 5%;
     transition: 1s;
 }
 
@@ -46,7 +46,7 @@ html {
     margin-top: 1.42rem;
     list-style-type: none;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 0.625rem 1.25rem;
 }
 
 .navegador ul li a{
@@ -64,7 +64,7 @@ html {
 .carousel-item img {
     text-align: left;
     width: 100%;
-    height: 450px;
+    height: 28.125rem;
     object-fit: cover;
 }
 
@@ -81,3 +81,20 @@ html {
     padding-left: 80px;
     
   }
+
+  .footer {
+    display: flex;
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+    height: 140px;
+    background-color: var(--clr-blue);
+    color: white;
+    font-size: 12px;
+  }
+
+  .column {
+    flex: 1;
+    padding: 0 10px;
+  }
+
