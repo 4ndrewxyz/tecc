@@ -3,8 +3,8 @@
 :root{
     --clr-main: #4b33a8;
     --clr-white: #ececec;
-    --clr-gray: #e2e2e2;
-    --clr-red: #961818;
+    --clr-gray: #ecf0f2;
+    --clr-blue: #184a96;
 }
 
 * {
@@ -25,6 +25,7 @@ html {
 }
 
 .navegador{
+    background-color: rgb(255,255,255,0.3);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -36,13 +37,16 @@ html {
 }
 
 .logo a{
+    color: var(--clr-white);
+}
+
+.logo a:hover{
+    color: var(--clr-white);
     text-decoration: none;
-    color: wheat;
-    font-size: 30px;
 }
 
 span{
-    color: crimson;
+    color: var(--clr-blue);
 }
 
 .navegador ul li{
@@ -58,17 +62,6 @@ span{
 }
 
 .navegador ul li a:hover{
-    color: chartreuse;
-    border-bottom: 4px solid chartreuse;
+    color: var(--clr-blue);
     transition: .4s;
-}
-
-.abajo {
-    background: var(--clr-main);
-    transition: 1s;
-}
-
-.arriba {
-    background: var(--clr-main);
-    transition: 1s;
 }
