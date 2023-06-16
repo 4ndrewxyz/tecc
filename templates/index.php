@@ -41,6 +41,22 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
+    
+<!--Seccion de servicios-->
+<div class="contenerdor">
+  <div class="servicio" data-aos="fade-right">
+          <figure>
+              <img src="#" alt="">
+          </figure>
+          <div class="contenido">
+              <h3>Servicios</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+              <a href="#">Leer más</a>
+          </div>
+  </div>
+</div>
+
+
 
 </body>
 </html>
