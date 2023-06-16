@@ -4,6 +4,7 @@
     --clr-main: #4b33a8;
     --clr-white: #ececec;
     --clr-gray: #ecf0f2;
+    --clr-secondary: #8F9B9D;
     --clr-blue: rgb(43,52,132,0.9);
 }
 
@@ -36,19 +37,6 @@ html {
     transition: 1s;
 }
 
-.logo a{
-    color: var(--clr-white);
-}
-
-.logo a:hover{
-    color: var(--clr-white);
-    text-decoration: none;
-}
-
-span{
-    color: var(--clr-blue);
-}
-
 .navegador ul li{
     list-style-type: none;
     display: inline-block;
@@ -56,12 +44,12 @@ span{
 }
 
 .navegador ul li a{
-    color: var(--clr-white);
+    color: var(--clr-main);
     text-decoration: none;
     font-weight: bold;
 }
 
 .navegador ul li a:hover{
-    color: var(--clr-blue);
+    color: var(--clr-secondary);
     transition: .4s;
 }
