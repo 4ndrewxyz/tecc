@@ -15,7 +15,7 @@
         <nav class="navegador" id="nav-bar">
             <img class="logo" src="/public/img/logo.png"> <!--Logo de la empresa-->
             <ul>
-                <li><a href="#">Inicios</a></li>
+                <li><a href="#">Inicio</a></li>
                 <li><a href="#">Servicios</a></li>
                 <li><a href="#">Productos</a></li>
                 <li><a href="#">Contacto</a></li>
