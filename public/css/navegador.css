@@ -59,3 +59,15 @@ html {
     color: var(--clr-secondary);
     transition: .4s;
 }
+
+/*CAROUSEL */
+.carousel-image {
+    float: left;
+    width:  100px;
+    height: 12px;
+    object-fit: cover;
+  }
+  
+.carousel{
+  background-color: #FFFFFF;
+}
