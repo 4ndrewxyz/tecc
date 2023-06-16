@@ -30,8 +30,8 @@ html {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-top: 1.5%;
+    padding-bottom: 1.25%;
     padding-left: 5%;
     padding-right: 5%;
     transition: 1s;
@@ -39,14 +39,23 @@ html {
 
 .logo{
     height: auto;
-    width: 24rem;
+    width: 37%;
+}
+
+.navegador ul{
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .navegador ul li{
-    margin-top: 1.42rem;
+    margin-top: 3%;
     list-style-type: none;
-    display: inline-block;
-    padding: 0.625rem 1.25rem;
+}
+
+.navegador ul li a{
+    font-size: 100%;
 }
 
 .navegador ul li a{
