@@ -25,7 +25,7 @@ html {
 }
 
 .navegador{
-    background-color: var(--clr-blue);
+    background-color: var(--clr-gray);
     display: flex;
     align-items: center;
     justify-content: space-between;
