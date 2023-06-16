@@ -115,24 +115,8 @@
     </div>
 </div>
 
-<div class="footer">
-    <div class="acerca">
-      <h3>Sobre nosotros</h3>
-      <p>Conocenos</p>
-      <p>Aviso de privacidad</p>
-      <p>Terminos y condiciones</p>
-    </div>
-    <div class="atencion">
-      <h3>Atención al cliente</h3>
-      <a href="http://192.168.1.215/">Pagina de soporte</a>
-    </div>
-    <div class="Contactanos">
-      <h3>Contactanos</h3>
-      <p>Tel 6135824 y 6120747.</p>
-      <p>Direccion: 2a Sur Oriente 551, Centro, 29000 <br> Tuxtla Gutiérrez, Chis.</p>
-      <p>Correo: Soporte.tecc.com.mx</p>
-    </div>
-</div>
+<?php include 'footer.php'; ?>
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 </body>
