@@ -9,16 +9,16 @@
 <body>
     <header class="n">
         <nav class="navegador" id="nav-bar">
-            <h2 class="logo"><a href="/">Flor |<span>| Rama</span></a></h2>
+            <h2 class="logo"><a href="#">Logo |<span>| Logo</span></a></h2>
             <ul>
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/admin">Mi cuenta</a></li>
-                <li><a href="/products">Productos</a></li>
-                <li><a href="/shoppingcart">Carrito</a></li>
-                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Servicios</a></li>
+                <li><a href="#">Productos</a></li>
+                <li><a href="#">Contacto</a></li>
+                <li><a href="#sobre-nosotros">Soporte Tecnico</a></li>
             </ul>
         </nav>
-    </header>
+</header>
     
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -42,7 +42,5 @@
         </a>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
