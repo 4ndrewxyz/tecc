@@ -20,15 +20,15 @@
         </nav>
 </header>
     
-    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-bs-interval="4000">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img class="d-block w-100" src="/public/img/carousel.jpeg" alt="First slide">
             </div>
-            <div class="carousel-item">
+            <div class="carousel-item" data-bs-interval="4000">
                 <img class="d-block w-100" src="/public/img/carousel2.jpeg" alt="Second slide">
             </div>
-            <div class="carousel-item">
+            <div class="carousel-item" data-bs-interval="4000">
                 <img class="d-block w-100" src="/public/img/carousel3.jpeg" alt="Third slide">
             </div>
         </div>
