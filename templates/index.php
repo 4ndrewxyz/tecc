@@ -23,7 +23,7 @@
             </ul>
         </nav>
 </header>
-    
+
 <!--Seccion de carrusel-->
 <br><br><br><br><br>
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
@@ -84,7 +84,7 @@
   </div>
 </div>
 
-  <div class="footer">
+<div class="footer">
     <div class="acerca">
       <p>Sobre nosotros</p>
       <p>conocenos</p>
@@ -97,8 +97,6 @@
       <p>Contactanos</p>
       <p>redes.</p>
     </div>
-</div>
-
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
