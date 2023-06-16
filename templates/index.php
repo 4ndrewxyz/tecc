@@ -9,7 +9,7 @@
 <body>
     <header class="n">
         <nav class="navegador" id="nav-bar">
-            <h2 class="logo"><a href="#">Logo |<span>| Logo</span></a></h2>
+            <h2 class="logo"><a href="#">Logo |<span>| Logos</span></a></h2>
             <ul>
                 <li><a href="#">Inicio</a></li>
                 <li><a href="#">Servicios</a></li>
