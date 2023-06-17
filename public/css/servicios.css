@@ -60,13 +60,12 @@
 
 .productos-contenedor{
     padding-top: 5%;
-    padding-bottom: 2%;
 }
 
 .productos-contenedor h1{
     text-align: left;
     font-size: var(--textsizetitle);
-    padding-right: 12%;
+    padding-left: 12%;
     padding-bottom: 2%;
 }
 
