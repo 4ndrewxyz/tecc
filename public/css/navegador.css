@@ -171,3 +171,77 @@ html {
     font-size: 16px;
     padding-left: 35px;
   }
+
+  /* Estilos para dispositivos móviles */
+@media (max-width: 767px) {
+  .navegador {
+    flex-direction: column;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+
+  .logo {
+    width: 70%; /* Cambiar el ancho del logotipo para dispositivos móviles */
+  }
+
+  .navegador ul {
+    min-width: unset;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .navegador ul li {
+    margin-top: 2%;
+    padding: 1% 0; /* Ajustar el relleno vertical */
+  }
+
+  .navegador ul li a {
+    font-size: 16px; /* Cambiar el tamaño de fuente para dispositivos móviles */
+  }
+
+  .heading1 {
+    font-size: 20px; /* Cambiar el tamaño de fuente para dispositivos móviles */
+    left: 10px; /* Ajustar la posición del encabezado */
+    top: 120px;
+    padding-left: 20px; /* Ajustar el relleno izquierdo */
+  }
+
+  .footer {
+    height: auto; /* Eliminar la altura fija para dispositivos móviles */
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px; /* Ajustar el relleno inferior */
+  }
+
+  .footer a,
+  .footer .acerca p,
+  .footer h3,
+  .footer p {
+    padding: 5px 0; /* Ajustar el relleno vertical */
+    text-align: center;
+  }
+
+  .column {
+    padding: 0; /* Eliminar el relleno lateral para dispositivos móviles */
+    overflow-x: hidden; /* Deshabilitar el desplazamiento horizontal */
+  }
+
+  .acerca-de-nosotros h1 {
+    font-size: 24px; /* Cambiar el tamaño de fuente para dispositivos móviles */
+    padding-top: 40px; /* Ajustar el relleno superior */
+    padding-left: 15px; /* Ajustar el relleno izquierdo */
+  }
+
+  .acerca-de-nosotros h2 {
+    font-size: 20px; /* Cambiar el tamaño de fuente para dispositivos móviles */
+    padding-top: 10px; /* Ajustar el relleno superior */
+    padding-left: 15px; /* Ajustar el relleno izquierdo */
+  }
+
+  .acerca-de-nosotros p {
+    font-size: 14px; /* Cambiar el tamaño de fuente para dispositivos móviles */
+    padding-left: 15px; /* Ajustar el relleno izquierdo */
+  }
+}
