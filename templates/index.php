@@ -39,7 +39,7 @@
 
 
 <!--Seccion de servicios-->
-<div class="servicios-contenedor">
+<div class="servicios-contenedor" id="servicios">
     <h1>Servicios</h1>
     <div class="contenedor">
     <div class="servicio" data-aos="fade-right">
@@ -77,7 +77,7 @@
 
 <!--Productos-->
 
-<div class="productos-contenedor">
+<div class="productos-contenedor" id="productos">
     <h1>Productos</h1>
     <div class="contenedor-producto">
     <div class="productos-categoria" data-aos="fade-right">
@@ -115,7 +115,9 @@
     </div>
 </div>
 
+<div class="footer" id="footer">
 <?php include 'footer.php'; ?>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
