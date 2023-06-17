@@ -38,6 +38,10 @@ html {
     transition: 1s;
 }
 
+.active-hidden{
+  visibility: hidden;
+}
+
 .logo-link{
     height: auto;
     width: 37%;
