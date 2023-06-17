@@ -1,3 +1,9 @@
+:root{
+    --texsize: calc(1.6vw - .6vh);
+    --textsizesubtitle: calc(2.5vw - .6vh);
+    --textsizetitle: calc(4vw - 1vh);
+}
+
 .servicios-contenedor{
     padding: 12%;
     padding-top: 5%;
@@ -6,6 +12,7 @@
 
 .servicios-contenedor h1{
     padding-bottom: 1%;
+    font-size: var(--textsizetitle);
 }
 
 .contenedor{
@@ -33,6 +40,7 @@
 
     font: helvetica;
     font-weight: bold;
+    font-size: var(--textsizesubtitle);
     color: rgb(26, 26, 26);
 }
 
@@ -46,6 +54,10 @@
     width: 100%;
 }
 
+.contenido p{
+    font-size: var(--texsize);
+}
+
 .productos-contenedor{
     padding-top: 5%;
     padding-bottom: 2%;
@@ -53,6 +65,7 @@
 
 .productos-contenedor h1{
     text-align: right;
+    font-size: var(--textsizetitle);
     padding-right: 12%;
     padding-bottom: 2%;
 }
@@ -76,6 +89,7 @@
 }
 
 .productos-categoria h3 {
+    font-size: var(--textsizesubtitle);
     color: #fff;
     font: helvetica;
     font-weight: bold;
