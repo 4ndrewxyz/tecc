@@ -21,7 +21,7 @@
             <h2 class="heading1">Bienvenido a TECC</h2>
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="/public/img/carousel2.jpeg" alt="Second slide">
+            <img class="d-block w-100" src="/public/img/carousel2.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
             <img class="d-block w-100" src="/public/img/carousel3.jpeg" alt="Third slide">
@@ -44,30 +44,30 @@
     <div class="contenedor">
     <div class="servicio" data-aos="fade-right">
             <figure>
-                    <img src="/public/img/carousel2.jpeg" alt="">
+                    <img src="/public/img/servicio1.jpeg" alt="">
             </figure>
             <div class="contenido">
-                <h3>Servicios</h3>
+                <h3>Refacciones</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
                 <a href="#">Leer más</a>
             </div>
     </div>
     <div class="servicio" data-aos="fade-right">
             <figure>
-                <img src="/public/img/carousel2.jpeg" alt="">
+                <img src="/public/img/carousel2.jpg" alt="">
             </figure>
             <div class="contenido">
-                <h3>Servicios</h3>
+                <h3>Impresoras</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
                 <a href="#">Leer más</a>
             </div>
     </div>
     <div class="servicio" data-aos="fade-right">
             <figure>
-                <img src="/public/img/carousel2.jpeg" alt="">
+                <img src="/public/img/carousel3.jpeg" alt="">
             </figure>
             <div class="contenido">
-                <h3>Servicios11</h3>
+                <h3>Redes</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
                 <a href="#">Leer más</a>
             </div>
@@ -81,35 +81,35 @@
     <h1>Productos</h1>
     <div class="contenedor-producto">
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">   
+            <img src="/public/img/servicio1.jpeg" alt="">   
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/carousel2.jpeg" alt="">
+            <img src="/public/img/servicio1.jpeg" alt="">
             <h3>Producto</h3>
     </div>
     </div>

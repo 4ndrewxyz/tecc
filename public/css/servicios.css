@@ -64,7 +64,7 @@
 }
 
 .productos-contenedor h1{
-    text-align: right;
+    text-align: left;
     font-size: var(--textsizetitle);
     padding-right: 12%;
     padding-bottom: 2%;
