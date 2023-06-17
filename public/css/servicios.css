@@ -1,5 +1,5 @@
 :root{
-    --texsize: calc(1.6vw - .6vh);
+        
     --textsizesubtitle: calc(2.5vw - .6vh);
     --textsizetitle: calc(4vw - 1vh);
 }
