@@ -51,73 +51,80 @@
 
 
 <!--Seccion de servicios-->
-<div class="contenedor" id="servicios">
-  <div class="servicio" data-aos="fade-right">
-          <figure>
+<div class="servicios-contenedor">
+    <h1>Servicios</h1>
+    <div class="contenedor">
+    <div class="servicio" data-aos="fade-right">
+            <figure>
+                    <img src="/public/img/carousel2.jpeg" alt="">
+            </figure>
+            <div class="contenido">
+                <h3>Servicios</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+                <a href="#">Leer más</a>
+            </div>
+    </div>
+    <div class="servicio" data-aos="fade-right">
+            <figure>
                 <img src="/public/img/carousel2.jpeg" alt="">
-          </figure>
-          <div class="contenido">
-              <h3>Servicios</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
-              <a href="#">Leer más</a>
-          </div>
-  </div>
-  <div class="servicio" data-aos="fade-right">
-          <figure>
-              <img src="/public/img/carousel2.jpeg" alt="">
-          </figure>
-          <div class="contenido">
-              <h3>Servicios</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
-              <a href="#">Leer más</a>
-          </div>
-  </div>
-  <div class="servicio" data-aos="fade-right">
-          <figure>
-              <img src="/public/img/carousel2.jpeg" alt="">
-          </figure>
-          <div class="contenido">
-              <h3>Servicios11</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
-              <a href="#">Leer más</a>
-          </div>
-  </div>
+            </figure>
+            <div class="contenido">
+                <h3>Servicios</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+                <a href="#">Leer más</a>
+            </div>
+    </div>
+    <div class="servicio" data-aos="fade-right">
+            <figure>
+                <img src="/public/img/carousel2.jpeg" alt="">
+            </figure>
+            <div class="contenido">
+                <h3>Servicios11</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
+                <a href="#">Leer más</a>
+            </div>
+    </div>
+    </div>
 </div>
 
 <!--Productos-->
-<div class="contenedor-producto" id="productos">
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">   
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
-  <div class="productos-categoria" data-aos="fade-right">
-        <img src="/public/img/carousel2.jpeg" alt="">
-        <h3>Producto</h3>
-  </div>
+
+<div class="productos-contenedor">
+    <h1>Productos</h1>
+    <div class="contenedor-producto">
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">   
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    <div class="productos-categoria" data-aos="fade-right">
+            <img src="/public/img/carousel2.jpeg" alt="">
+            <h3>Producto</h3>
+    </div>
+    </div>
 </div>
 
 <div class="footer">

@@ -1,7 +1,14 @@
-.contenedor{
+.servicios-contenedor{
     padding: 12%;
     padding-top: 5%;
-    padding-bottom: 2%;
+    padding-bottom: 2%;;
+}
+
+.servicios-contenedor h1{
+    padding-bottom: 1%;
+}
+
+.contenedor{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -39,9 +46,18 @@
     width: 100%;
 }
 
-.contenedor-producto {
+.productos-contenedor{
     padding-top: 5%;
     padding-bottom: 2%;
+}
+
+.productos-contenedor h1{
+    text-align: right;
+    padding-right: 12%;
+    padding-bottom: 2%;
+}
+
+.contenedor-producto {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -50,12 +66,13 @@
 .productos-categoria {
     position: relative;
     width: 24.567vw;
+    transition: 1s;
 }
 
 .productos-categoria img {
     width: 100%;
     height: 35vh;
-    transition: width 0.3s ease, transform 0.3s ease; /* Add transition for smooth effect */
+    transition: 1s, width 0.3s ease, transform 0.3s ease; /* Add transition for smooth effect */
 }
 
 .productos-categoria h3 {
@@ -76,8 +93,10 @@
 }
 
 .productos-categoria:hover img {
-    transform: translateY(-10px);
-    width: 25vw;
+    transform: translateY(-12px);
+    width: 26vw;
+    border-radius: 1rem;
+    transition: .8s ease-in-out;
     z-index: 1; /* Reduce the z-index of the image to make it behind the text */
 }
 
