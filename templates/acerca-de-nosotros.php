@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <title>Acerca-de-nosotros</title>
 </head>
-
-
 <body>
+<?php include 'navegacion.php'; ?>
+</body>
+</html>

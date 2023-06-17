@@ -10,22 +10,10 @@
 </head>
 <body>
 
-<!--Seccion de navegacion-->
-    <header class="n">
-        <nav class="navegador" id="nav-bar">
-            <img class="logo" src="/public/img/logo.png"> <!--Logo de la empresa-->
-            <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#servicios">Servicios</a></li>
-                <li><a href="#productos">Productos</a></li>
-                <li><a href="#footer">Contacto</a></li>
-                <li><a href="http://192.168.1.215/">Soporte Tecnico</a></li>
-            </ul>
-        </nav>
-</header>
+<?php include 'navegacion.php'; ?>
 
 <!--Seccion de carrusel-->
-<br><br><br><br><br><!---->
+<br><br><br><br><!---->
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
     <div class="carousel-inner">
         <div class="carousel-item active">
