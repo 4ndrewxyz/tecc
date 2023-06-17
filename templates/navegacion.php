@@ -4,6 +4,7 @@
         <a href="index.php" class="logo-link">
             <img class="logo" src="/public/img/logo.png" alt="Logo de la empresa">
         </a>
+        <div class="active-hidden boton-nav"> |||</div> 
         <ul>
             <li><a href="#">Inicio</a></li>
             <li><a href="#servicios">Servicios</a></li>
