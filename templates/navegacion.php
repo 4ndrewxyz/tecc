@@ -1,7 +1,9 @@
 <!--Seccion de navegacion-->
 <header class="n">
     <nav class="navegador" id="nav-bar">
-        <img class="logo" src="/public/img/logo.png"> <!--Logo de la empresa-->
+        <a href="index.php" class="logo-link">
+            <img class="logo" src="/public/img/logo.png" alt="Logo de la empresa">
+        </a>
         <ul>
             <li><a href="#">Inicio</a></li>
             <li><a href="#servicios">Servicios</a></li>

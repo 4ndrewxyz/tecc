@@ -38,9 +38,14 @@ html {
     transition: 1s;
 }
 
-.logo{
+.logo-link{
     height: auto;
     width: 37%;
+}
+
+.logo{
+    height: auto;
+    width: 100%;
 }
 
 .navegador ul{
