@@ -12,7 +12,7 @@
     <div class="Contactanos">
         <h3>Contáctanos</h3>
         <p>Tel 6135824 y 6120747.</p>
-        <p>Dirección: 2a Sur Oriente 551, Centro, 29000 <br> Tuxtla Gutiérrez, Chis.</p>
+        <p>Dirección: 2a Sur Oriente 551, <br>Centro, 29000 <br> Tuxtla Gutiérrez, Chis.</p>
         <p>Correo: ventas@tecc.com.mx</p>
     </div>
 </div>

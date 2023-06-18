@@ -219,40 +219,42 @@ html {
     padding-left: 20px; /* Ajustar el relleno izquierdo */
   }
 
-  .footer {
-    height: auto; /* Eliminar la altura fija para dispositivos móviles */
-    flex-direction: column;
-    align-items: center;
-    padding-bottom: 20px; /* Ajustar el relleno inferior */
-  }
+/*footer movil */
 
-  .footer a,
-  .footer .acerca p,
-  .footer h3,
-  .footer p {
-    padding: 5px 0; /* Ajustar el relleno vertical */
-    text-align: center;
-  }
+.footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer div{
+    width: 50%;
+    height: 100%;
+}
 
-  .column {
-    padding: 0; /* Eliminar el relleno lateral para dispositivos móviles */
-    overflow-x: hidden; /* Deshabilitar el desplazamiento horizontal */
-  }
 
-  .acerca-de-nosotros h1 {
-    font-size: 24px; /* Cambiar el tamaño de fuente para dispositivos móviles */
-    padding-top: 40px; /* Ajustar el relleno superior */
-    padding-left: 15px; /* Ajustar el relleno izquierdo */
-  }
+ .acerca h3{
+    font-size: 13px;
+ }
 
-  .acerca-de-nosotros h2 {
-    font-size: 20px; /* Cambiar el tamaño de fuente para dispositivos móviles */
-    padding-top: 10px; /* Ajustar el relleno superior */
-    padding-left: 15px; /* Ajustar el relleno izquierdo */
-  }
+ .atencion h3{
+    font-size: 13px;
+ }
 
-  .acerca-de-nosotros p {
-    font-size: 14px; /* Cambiar el tamaño de fuente para dispositivos móviles */
-    padding-left: 15px; /* Ajustar el relleno izquierdo */
-  }
+ .Contactanos h3{
+    font-size: 4vw;
+ }
+
+ .Contactanos p{
+    font-size: 3vw;
+ }
+ .Contactanos a{
+    font-size: 3vw;
+ }
+
+.acerca a{
+    font-size: 3vw;
+}
+
 }
