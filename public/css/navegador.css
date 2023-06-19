@@ -245,7 +245,14 @@ html {
 
 
  .acerca h3{
-    font-size: 13px;
+    font-size: 4vw;
+    padding-left: 9px;
+ }
+ 
+ .acerca a{
+    font-size: 3vw;
+    padding-left: 9px;
+    text-align: center;
  }
 
  .atencion h3{
