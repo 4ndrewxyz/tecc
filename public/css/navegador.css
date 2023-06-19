@@ -231,32 +231,4 @@ html {
 
 /*footer movil */
 
-.footer{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.footer div{
-    width: 50%;
-    height: 100%;
-}
-
-.footer-movil h3{
-  font-size: 14px;
-  margin-left: 0%;
-  text-align: center;
-
-}
-.footer-movil a{
-  font-size: 14px;
-  margin-left: 0%;
-  text-align: center;
-}
-.footer-movil p{
-  font-size: 14px;
-  margin-left: 0%;
-  text-align: center;
 }
