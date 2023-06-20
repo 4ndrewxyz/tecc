@@ -231,7 +231,6 @@ html {
 
 /*footer movil */
 .footer {
-  background-color: var(--clr-blue);
   width: 100vw;
   height: 40vh;
   display: flex;
@@ -239,7 +238,6 @@ html {
 }
 
 .footer div{
-  background-color: var(--clr-blue);
   width: 30vw;
   height: 90%;
   padding-left: 20px;
