@@ -145,6 +145,7 @@ html{
 
 @media (max-width: 767px) {
 
+    /*Seccion de servicios para dispositivos moviles*/
     .servicios-contenedor{
         padding: 6%;
     }
@@ -180,5 +181,33 @@ html{
 
     .contenido a{
         margin-bottom: 2%;
+    }
+    
+    /*Seccion de productos para dispositivos moviles*/
+    .contenedor-producto{
+        display: grid;
+        justify-items: center;
+        width: 100%;
+    }
+
+    .productos-contenedor h1{
+        font-size: var(--textsizetitlemobile);
+    }
+
+    .productos-categoria{
+        width: 90%;
+        margin: 4%;
+    }
+
+    .productos-categoria img{
+        border-radius: .5rem;
+    }
+
+    .productos-categoria img:hover{
+        width: 100%;
+    }
+
+    .productos-categoria h3{
+        font-size: var(--textsizesubtitlemobile);
     }
 }
