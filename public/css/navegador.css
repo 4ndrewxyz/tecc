@@ -114,7 +114,6 @@ html {
     background-color: var(--clr-blue);
     color: white;
     font-size: var(--texsize);
-
   }
   
   .footer a{
@@ -236,15 +235,17 @@ html {
   height: auto;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 
 }
 
 
 
 .footer div{
-  background-color: var(--clr-blue);
+  /* background-color: var(--clr-blue); */
   width: auto;
   height: auto;
+  padding-left: 3vw;
   align-items: center;
   margin-top: 0%;
 }
@@ -254,33 +255,43 @@ html {
   font-weight: bold;
   color: white;
   font-size: 14px;
-  text-align: center;
+  padding-left: 13.7vh;
 }
 
 .atencion a{
   font-family: sans-serif;
+  font-weight: bold;
   text-underline-position: auto;
   color: white;
   font-size: 13px;
   text-decoration: underline;
   text-align: center;
+  padding-left: 14vh;
   
 }
 
-.Contactanos h3{
+.footer .contactanos{
+  padding-left: 10vh;
+}
+
+
+.contactanos h3{
   margin-top: 40px;
   font-family: sans-serif;
   font-weight: bold;
   color: white;
   font-size: 14px;
-  text-align: center;
+  padding-left: 16vw;
+
 }
 
-.Contactanos p{
+.contactanos p{
   font-family: sans-serif;
   font-weight: bold;
   color: white;
   font-size: 13px;
   text-align: center;
+  align-items: center;
+  padding-left: 1vh;
 }
 }
