@@ -10,7 +10,7 @@
         <h3>Atención al cliente</h3>
         <a href="http://192.168.1.215/">Página de soporte</a>
     </div>
-    <div class="Contactanos footer-movil">
+    <div class="contactanos">
         <h3>Contáctanos</h3>
         <p>Tel 6135824 y 6120747.</p>
         <p>Dirección: 2a Sur Oriente 551, <br>Centro, 29000 <br> Tuxtla Gutiérrez, Chis.</p>
