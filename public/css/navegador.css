@@ -245,6 +245,7 @@ html {
   background-color: var(--clr-blue);
   width: auto;
   height: auto;
+  align-items: center;
   margin-top: 0%;
   padding-left: 24px;
 }
@@ -253,8 +254,6 @@ html {
   font-family: sans-serif;
   font-weight: bold;
   color: white;
-  padding-left: 95px;
-  margin-top: 0%;
   font-size: 14px;
   text-align: center;
 }
@@ -263,8 +262,6 @@ html {
   font-family: sans-serif;
   text-underline-position: auto;
   color: white;
-  padding-left: 101px;
-  padding-top: 1px;
   font-size: 13px;
   text-decoration: underline;
   text-align: center;
@@ -276,9 +273,6 @@ html {
   font-family: sans-serif;
   font-weight: bold;
   color: white;
-  padding-left: 65px;
-  padding-right: 70px;
-  padding-top: 5px;
   font-size: 14px;
   text-align: center;
 }
@@ -287,9 +281,6 @@ html {
   font-family: sans-serif;
   font-weight: bold;
   color: white;
-  padding-left: 65px;
-  padding-right: 70px;
-  padding-top: 5px;
   font-size: 13px;
   text-align: center;
 }
