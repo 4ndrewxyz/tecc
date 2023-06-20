@@ -239,26 +239,58 @@ html {
 
 }
 
+
+
 .footer div{
-  width: 30vw;
-  height: 90%;
-  padding-left: 20px;
+  background-color: var(--clr-blue);
+  width: auto;
+  height: auto;
+  margin-top: 0%;
+  padding-left: 24px;
 }
 
-.footer-movil h3{
+.atencion h3{ 
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+  padding-left: 95px;
+  margin-top: 0%;
   font-size: 14px;
-  margin-left: 0%;
   text-align: center;
+}
 
+.atencion a{
+  font-family: sans-serif;
+  text-underline-position: auto;
+  color: white;
+  padding-left: 101px;
+  padding-top: 1px;
+  font-size: 13px;
+  text-decoration: underline;
+  text-align: center;
+  
 }
-.footer-movil a{
+
+.Contactanos h3{
+  margin-top: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+  padding-left: 65px;
+  padding-right: 70px;
+  padding-top: 5px;
   font-size: 14px;
-  margin-left: 0%;
   text-align: center;
 }
-.footer-movil p{
-  font-size: 14px;
-  margin-left: 0%;
+
+.Contactanos p{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+  padding-left: 65px;
+  padding-right: 70px;
+  padding-top: 5px;
+  font-size: 13px;
   text-align: center;
 }
 }
