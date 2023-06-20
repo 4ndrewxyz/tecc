@@ -1,7 +1,7 @@
 <div class="footer">
     <div class="acerca footer-movil">
         <h3>Sobre nosotros</h3>
-        <a href="acerca-de-nosotros.php">Acerca de nosotros</a>
+        <a href="acerca-de-nosotros.php">Acerca <br>de nosotros</a>
         <br>
         <p>Aviso de privacidad</p>
         <p>Términos y condiciones</p>
