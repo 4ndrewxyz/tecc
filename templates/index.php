@@ -48,10 +48,8 @@
                 </figure>
                 <div class="contenido">
                     <h3>Refacciones</h3>
-                    <div class="contenido-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam natus eum repellat magni! Harum ipsum sit illum animi! Officia nemo deleniti, totam provident aspernatur labore ad cupiditate tempore commodi ducimus? Quisquam voluptate iste maxime consequuntur non nesciunt, ipsum ipsa, explicabo quis minus tenetur. Ipsum facere magnam tempora ex porro error vel eum aliquam recusandae neque mollitia illum, eius nesciunt ipsa placeat enim repellendus vero laudantium nostrum delectus assumenda omnis. Ipsam delectus dolor quidem eos laborum officiis officia fugiat dolore animi cupiditate, quae reiciendis temporibus sunt aperiam repudiandae. Impedit commodi iure, hic, nemo quasi nulla minus laborum ducimus sunt, aut rerum.</p>
-                    </div>
-                    <a href="#">Leer más</a>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, eius minus. Aut voluptates voluptatum aperiam aspernatur amet nobis, ex animi.</p>
+                    <a href="#">Saber más</a>
                 </div>
         </div>
         <div class="servicio" data-aos="fade-right">
@@ -60,10 +58,18 @@
                 </figure>
                 <div class="contenido">
                     <h3>Impresoras</h3>
-                    <div class="contenido-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
-                    </div>
-                    <a href="#">Leer más</a>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos rerum blanditiis cumque accusamus tenetur? Sit eveniet laborum obcaecati? Expedita, explicabo.</p>
+                    <a href="#">Saber más</a>
+                </div>
+        </div>
+        <div class="servicio" data-aos="fade-right">
+                <figure>
+                    <img src="/public/img/carousel2.jpg" alt="">
+                </figure>
+                <div class="contenido">
+                    <h3>Impresoras</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos rerum blanditiis cumque accusamus tenetur? Sit eveniet laborum obcaecati? Expedita, explicabo.</p>
+                    <a href="#">Saber más</a>
                 </div>
         </div>
         <div class="servicio" data-aos="fade-right">
@@ -72,10 +78,8 @@
                 </figure>
                 <div class="contenido">
                     <h3>Redes</h3>
-                    <div class="contenido-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, cumque.</p>
-                    </div>
-                    <a href="#">Leer más</a>
+                    <a href="#">Saber más</a>
                 </div>
         </div>
     </div>
