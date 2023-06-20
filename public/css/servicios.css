@@ -52,6 +52,18 @@ html{
     color: rgb(26, 26, 26);
 }
 
+.contenido{
+    height: 35vh;
+    padding: 4%;
+}
+
+.contenido-text{
+    height: 67%;
+    margin-bottom: 2%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .servicio:hover{
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
     transform: translateY(-3%);
