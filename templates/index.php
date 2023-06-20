@@ -90,38 +90,38 @@
 <div class="productos-contenedor" id="productos">
     <h1>Productos</h1>
     <div class="contenedor-producto">
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">   
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
-    <div class="productos-categoria" data-aos="fade-right">
-            <img src="/public/img/servicio1.jpeg" alt="">
-            <h3>Producto</h3>
-    </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">   
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
+        <div class="productos-categoria" data-aos="fade-right">
+                <img src="/public/img/servicio1.jpeg" alt="">
+                <h3>Producto</h3>
+        </div>
     </div>
 </div>
 
