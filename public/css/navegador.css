@@ -236,6 +236,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
 
 }
 
@@ -248,6 +249,7 @@ html {
   padding-left: 3vw;
   align-items: center;
   margin-top: 0%;
+  justify-content: center;
 }
 
 .atencion h3{ 
@@ -255,7 +257,7 @@ html {
   font-weight: bold;
   color: white;
   font-size: 14px;
-  padding-left: 13.7vh;
+  
 }
 
 .atencion a{
@@ -266,13 +268,11 @@ html {
   font-size: 13px;
   text-decoration: underline;
   text-align: center;
-  padding-left: 14vh;
+
   
 }
 
-.footer .contactanos{
-  padding-left: 10vh;
-}
+
 
 
 .contactanos h3{
@@ -281,7 +281,9 @@ html {
   font-weight: bold;
   color: white;
   font-size: 14px;
-  padding-left: 16vw;
+  text-align: center;
+  justify-content: center;
+  
 
 }
 
@@ -292,6 +294,6 @@ html {
   font-size: 13px;
   text-align: center;
   align-items: center;
-  padding-left: 1.7vh;
+  justify-content: center;
 }
 }
