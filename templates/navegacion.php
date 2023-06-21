@@ -7,7 +7,7 @@
         <div class="active-hidden boton-nav" onclick="toggleMenu()">
         ≡
         </div> 
-        <ul class="mobile">
+        <ul class="mobile" id="ul-mobile">
             <li><a href="#">Inicio</a></li>
             <li><a href="#servicios">Servicios</a></li>
             <li><a href="#productos">Productos</a></li>
