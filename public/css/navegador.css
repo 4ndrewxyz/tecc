@@ -223,10 +223,6 @@ html {
     display: flex; /* Show when the menu is open */
   }
 
-  .navegador active-ul{
-    visibility: visible;
-  }
-
   .navegador ul li {
     margin-top: 2%;
     padding: 1% 0;
