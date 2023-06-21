@@ -1,1 +1,4 @@
-const nav = document.querySelector("#ul-mobile");
+function toggleMenu() {
+    const mobileMenu = document.querySelector('.mobile');
+    mobileMenu.classList.toggle('open');
+  }

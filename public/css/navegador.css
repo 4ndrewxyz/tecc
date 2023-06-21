@@ -42,6 +42,7 @@ html {
 
 .active-hidden{
   visibility: hidden;
+  
 }
 
 .logo-link{
@@ -184,32 +185,42 @@ html {
     padding-left: 35px;
   }
 
-  /* Estilos para dispositivos móviles */
+/* Estilos para dispositivos móviles */
 @media (max-width: 767px) {
-
-  .navegador{
+  .navegador {
     width: 100%;
     height: 10vh;
     flex-wrap: wrap;
-  }
-  .active-hidden{
-    visibility: visible;
-    margin: 5%;
+    position: relative; /* Add position relative */
   }
 
-  .logo{
+  .active-hidden {
+    visibility: visible;
+    margin: 5%;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer; /* Add cursor pointer */
+  }
+
+  .logo {
     width: calc(40vh - 14vw);
   }
 
-  .navegador .mobile{
-    min-width: unset;
+  .navegador .mobile {
+    position: absolute; /* Add position absolute */
+    top: 100%; /* Position it below the toggle button */
+    left: 0;
     width: 100%;
-    display:flex;
+    display: none; /* Hide by default */
     flex-direction: column;
+    background-color: var(--clr-gray); /* Add background color */
+    padding: 10px;
+    z-index: 1; /* Ensure it appears above other content */
+
   }
 
-  .navegador ul{
-    visibility: hidden;
+  .navegador .mobile.open {
+    display: flex; /* Show when the menu is open */
   }
 
   .navegador active-ul{
@@ -224,6 +235,8 @@ html {
   .navegador ul li a {
     font-size: calc(1vh + 4vw);
   }
+
+
 
   .heading1 {
     font-size: 20px; /* Cambiar el tamaño de fuente para dispositivos móviles */
